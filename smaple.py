@@ -1,4 +1,4 @@
-my_boolean = True
+"""my_boolean = True
 print(my_boolean)
 
 square = {1: 2, 2: 3, 3: "error", 4: 5}
@@ -57,5 +57,10 @@ print("{0]{1}{0}".format("abra","cad"))
 a = "{x},{y}".format(x=5,y=6)
 print(a)
 
+print(abs(-99))"""
 print(abs(42))
+
+a=min([sum([11,22]),max(abs(-30),2)])
+print(a)
+
 
